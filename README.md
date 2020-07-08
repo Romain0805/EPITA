@@ -1,1 +1,2 @@
 # EPITA
+AUTHOR : Romain Riviere
