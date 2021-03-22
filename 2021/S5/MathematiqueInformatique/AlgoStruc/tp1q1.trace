@@ -1,0 +1,41 @@
+tp1q1
+501
+12905537
+2020-11-30 12:57:37
+int_width(1514336926) = 10
+int_width(-481436626) = 10
+int_width(-710977592) = 10
+int_width(388478697) = 9
+int_width(-823696067) = 10
+int_width(1991715909) = 10
+int_width(1067229039) = 10
+int_width(-178242615) = 10
+int_width(-577896197) = 10
+int_width(244430299) = 9
+int_width(-2147483648) = 11
+int_width(-100000) = 7
+int_width(-99999) = 6
+int_width(-10000) = 6
+int_width(-9999) = 5
+int_width(-1000) = 5
+int_width(-999) = 4
+int_width(-100) = 4
+int_width(-99) = 3
+int_width(-10) = 3
+int_width(-9) = 2
+int_width(-1) = 2
+int_width(0) = 1
+int_width(1) = 1
+int_width(9) = 1
+int_width(10) = 2
+int_width(99) = 2
+int_width(100) = 3
+int_width(999) = 3
+int_width(1000) = 4
+int_width(9999) = 4
+int_width(10000) = 5
+int_width(99999) = 5
+int_width(100000) = 6
+int_width(999999999) = 9
+int_width(1000000000) = 10
+int_width(2147483647) = 10

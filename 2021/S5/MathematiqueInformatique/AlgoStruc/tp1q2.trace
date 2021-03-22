@@ -1,0 +1,15 @@
+tp1q2
+501
+12906027
+2020-11-30 13:05:47
+a[] = { 1504, 7, 11, 466, -110, -64, 60982048, 158782517, 2672, -263441, -142881 }
+ints_width(a, 1) == 4
+ints_width(a, 2) == 4
+ints_width(a, 3) == 4
+ints_width(a, 4) == 4
+ints_width(a, 5) == 4
+ints_width(a, 6) == 4
+ints_width(a, 7) == 8
+ints_width(a, 8) == 9
+ints_width(a, 9) == 9
+ints_width(a, 10) == 9
